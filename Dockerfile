@@ -1,3 +1,3 @@
 FROM ubuntu/apache2
-COPY project /project
+COPY index.html /var/www/html/
 
